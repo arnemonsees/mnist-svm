@@ -173,7 +173,7 @@ if __name__ == '__main__':
             # SAVE
             fig.savefig('pc{:01d}_vs_pc{:01d}.png'.format(i+1, j+1),
                         dpi=300,
-                        transparent=True,
+                        transparent=False,
                         format='png',
                         pad_inches=0)
             
