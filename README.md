@@ -4,6 +4,7 @@ Simple implementation of a support vector machine for MNIST classification
 ## Instructions
 1. Open Google Colab: https://research.google.com/colaboratory/
 2. Upload: colab.ipynb, env.yml, mnist_io.py, svm.py
+3. Run colab.ipynb cell by cell
 
 ## NOTES
 - training and visualizing takes around 25 minutes on Google Colab
