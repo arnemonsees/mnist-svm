@@ -1,5 +1,5 @@
 # mnist-svm
-Implementation of a support vector machine for MNIST classification
+Implementation of a support vector machine for classifying MNIST samples
 
 ## Instructions
 1. Open Google Colab: https://research.google.com/colaboratory/
