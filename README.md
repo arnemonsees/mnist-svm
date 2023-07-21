@@ -11,7 +11,7 @@ Implementation of a support vector machine for classifying MNIST samples
 - the trained SVM model is saved automatically and can be loaded again by changing the 'train' variable in svm.py
 
 ## Results
-The trained SVM is capable of correctly classifying around 98% of the samples in the enitre training data set.
+The trained SVM is capable of correctly classifying around 98% of the samples in the test data set.
 
 One can visualize the learned decision space using PCA.
 For this PCA the number of PCs is set to 3 and 10% of the original training data is used.
